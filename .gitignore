@@ -22,3 +22,5 @@ canary/webrtc-c/firstFrameSentTimeStamp.txt
 canary/consumer-java/target/*
 sigv4-signing/*
 canary/Testing.txt
+config.bat
+node_modules
